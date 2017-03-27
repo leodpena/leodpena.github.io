@@ -1,4 +1,6 @@
 .main {
 	background-image: url("cle.png");
 	background-size: cover;
+	height: 100%;
+	width: 100%;
 }
